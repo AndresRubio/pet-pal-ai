@@ -37,7 +37,7 @@ Example Questions
 
 We're constantly looking to improve the Pet Pal AI Shop Assistant. If you have any feedback or suggestions, please don't hesitate to reach out to us.
 
-### About Us
+### About Me
 
 This app is developed by a dedicated person passionate about improving the online shopping experience for pet owners. Utilizing the latest in AI technology from OpenAI and Hugging Face, we strive to offer a convenient, personalized shopping assistant that helps you find exactly what you need for your beloved pets.
 
